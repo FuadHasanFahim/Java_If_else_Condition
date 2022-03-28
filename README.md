@@ -68,3 +68,9 @@ else
   // block of code to be executed if the condition1 is false and condition2 is false
   
 }
+
+int time = 20;
+
+String result = (time < 18) ? "Good day." : "Good evening.";
+
+System.out.println(result);
