@@ -69,6 +69,14 @@ else
   
 }
 
+# Short Hand If...Else
+
+**Syntax**
+
+variable = (condition) ? expressionTrue :  expressionFalse;
+
+Example:
+
 int time = 20;
 
 String result = (time < 18) ? "Good day." : "Good evening.";
